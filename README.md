@@ -13,3 +13,6 @@ A minimal URL shortener
 1. NodeJS
 1. MongoDB
 
+## 🖼 Resources
+
+1. Logo: [Streamline](https://www.streamlinehq.com)
