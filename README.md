@@ -1,5 +1,4 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/hungteddy/shiba-url/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hungteddy/shiba-url)
 
 # 🔗 Shiba URL
 
