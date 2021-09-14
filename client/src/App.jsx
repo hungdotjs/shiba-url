@@ -11,7 +11,8 @@ function App() {
       <Container maxWidth="md">
         <div className="container">
           <p className="title">
-            Shorter links, greater results.
+            Shorter <span className="color-blue">links</span> , greater
+            <span className="color-orange"> results</span>.
             <br /> No more long text.
           </p>
           <Shorten />
